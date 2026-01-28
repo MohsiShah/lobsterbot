@@ -1,0 +1,7 @@
+{
+  "name": "lobsterbot",
+  "version": "0.0.1",
+  "description": "Name reservation.",
+  "main": "index.js",
+  "license": "UNLICENSED"
+}
